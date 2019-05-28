@@ -68,30 +68,46 @@ body {
 
 .donate1 {
     background-color: green;
+    border: 2px dashed gray;
+    padding: 5px;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    height: 60px;
-    border: 1px dashed white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 .donate11 {
     background-color: green;
+    border: 2px dashed gray;
+    padding: 20px;
     color: white;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
-    height: 60px;
-    border: 1px dashed white;
+    text-align: center;
 }
 
 .donate2 {
     background-color: white;
+    border: 2px dashed gray;
+    padding: 5px;
+    font-size: 20px;
     color: green;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    font-size: 18px;
-    height: 60px;
-    border: 1px dashed green;
+}
+
+.donate22 {
+    background-color: white;
+    border: 2px dashed gray;
+    padding: 20px;
+    color: green;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.button {
+    color: green;
 }
 
 .News-Section {
